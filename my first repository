@@ -1,0 +1,3 @@
+a=int(input("enter A value"))
+b=int(input("enter B value"))
+print("A value=",a,"B value=,b,"A+B)
